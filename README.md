@@ -1,7 +1,8 @@
 # - Sistema de receitas 🍲
 
-API Web desenvolvida com FastAPI e MongoDB para gerenciamento
-de receitas culinárias, usuários e ingredientes.
+API Web para gerenciamento de receitas culinárias, 
+usuários e ingredientes, desenvolvida com FastAPI e MongoDB.
+
 
 ### 🛠 Tecnologias Utilizadas
 - Python
